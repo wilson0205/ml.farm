@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About ML.farm
-permalink: /about/
+permalink: "/about/"
+layout: page
 tags: about
 ---
 
